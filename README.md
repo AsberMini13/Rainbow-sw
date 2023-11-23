@@ -1,4 +1,4 @@
-# Rainbow sofrware for Fortnite
+# Rainbow sofrware for Rust
 
  Current as of 11/2023
 
